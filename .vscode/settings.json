@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "D:\\Work soft\\PYTHON\\python.exe",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./chapter2",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true
+}
